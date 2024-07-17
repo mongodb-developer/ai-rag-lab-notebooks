@@ -2,4 +2,4 @@
 
 This repository contains Jupyter Notebook templates for MongoDB's RAG Lab.
 
-You can access the online version of the lab [here](TBD).
+You can access the online version of the lab [here](https://mongodb-developer.github.io/ai-rag-lab/).
