@@ -1,0 +1,7 @@
+pymongo
+datasets
+langchain
+fireworks-ai
+tiktoken
+sentence_transformers
+tqdm
