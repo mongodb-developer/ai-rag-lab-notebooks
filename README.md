@@ -1,5 +1,5 @@
-# Developer Days RAG Lab Notebooks
+**This repository has been archived.**
 
-This repository contains Jupyter Notebook templates for MongoDB's RAG Lab.
+The notebook template for this lab has moved [here](https://github.com/mongodb-developer/genai-devday-notebooks/blob/main/ai-rag-lab.ipynb).
 
-You can access the online version of the lab [here](https://mongodb-developer.github.io/ai-rag-lab/).
+The online version of the lab can still be accessed [here](https://mongodb-developer.github.io/ai-rag-lab/).
